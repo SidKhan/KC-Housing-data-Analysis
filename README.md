@@ -88,3 +88,7 @@ The environment used here is R version 3.5.1. The packages that are used are:
      •	ggmap
      •	tidyverse
      •	moderndive
+**Output Link**
+
+To view the full output refer to the following link:
+https://docs.google.com/document/d/1KgajDwFYQENDZwa5v8lfygzN_WMQlWUdfjwJhhvU0dU/edit
